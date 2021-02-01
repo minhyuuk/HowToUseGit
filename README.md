@@ -13,3 +13,4 @@ github를 열심히 사용하자
 ### Git 명령어 정리
 - [Git](./git/git.md)
 
+shout out to qoxogus
