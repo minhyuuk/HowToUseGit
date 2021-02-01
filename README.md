@@ -1,7 +1,7 @@
-# Today I Learned
-시작날짜 : 2020/12/23
+# How To Use Github
+시작날짜 : 2021/02/01
 
-HowToUseGit - 깃 이용하기
+HowToUseGithub - 깃 이용하기
 
 github를 열심히 사용하자 
 
