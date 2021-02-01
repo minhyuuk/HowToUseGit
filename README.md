@@ -12,9 +12,4 @@ github를 열심히 사용하자
 
 ### Git 명령어 정리
 - [Git](./git/git.md)
-### 프로그래밍 언어
-- [Go](./language/go.md)
-### WEB
-- [Back-End Study (백엔드공부)](./web/backend-study.md)
-### DATABASE
-- [Query (쿼리)](./Database/query.md)
+
